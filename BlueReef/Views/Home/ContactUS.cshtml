@@ -1,0 +1,317 @@
+﻿@model SendEmail
+@{
+    ViewData["Title"] = "ContactUS";
+}
+
+<body class="body-content mt-5" style="padding-top:35px">
+    <div class="container-fluid contactusbackgroundimg">
+        <div class="container mt-5 pt-5 mb-5">
+            <div class="col-12 pt-5 mt-5">
+                <div class="row mt-5 pt-5">
+                    <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 bg-white">
+                        <div class="row ">
+                            <div class="col-12 text-center">
+                                <h3>HEAD OFFICE</h3>
+                            </div>
+                        </div>
+                        <hr />
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fas fa-map-marker-alt" style="font-size:35px;color:gold"></i>
+                            </div>
+                            <div class="col-10">
+                                <p style="font-size:20px">
+                                    2nd Floor AA Plaza
+                                    Jinnah Avenue ,Blue Area, Islamabad
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row mt-5">
+                            <div class="col-2">
+                                <i class="far fa-phone fa-rotate-90" style="font-size:35px;color:gold"></i>
+                            </div>
+                            <div class="col-10">
+                                <p style="font-size:20px">923007568106</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 text-center">
+                                <h3 class="text-center">REGIONAL OFFICE</h3>
+                            </div>
+                        </div>
+                        <hr />
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fas fa-map-marker-alt" style="font-size:35px;color:gold"></i>
+                            </div>
+                            <div class="col-10">
+                                <p style="font-size:20px">
+                                    Office No. 2, First Floor Block C,
+                                    JB Tower, University Road
+                                    Peshawar, Pakistan
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row mt-5">
+                            <div class="col-2">
+                                <i class="far fa-phone fa-rotate-90" style="font-size:35px;color:gold"></i>
+                            </div>
+                            <div class="col-10">
+                                <p style="font-size:20px">(091) 7257777</p>
+                            </div>
+                        </div>
+                        <div class="row mt-5">
+                            <div class="col-2">
+                                <i class="far fa-envelope" style="font-size:35px;color:gold"></i>
+                            </div>
+                            <div class="col-10">
+                                <p style="font-size:20px">info@skymarketing.com.pk</p>
+                            </div>
+                        </div>
+                        <div class="row mt-5 mb-5">
+                            <div class="container">
+                                <div class="col-12">
+                                    <img src="~/images/Contact-Us.png" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 bg-dark">
+                        <div class="col-12">
+                            <div class="row mt-5 pt-5">
+                                <div class="col-12 text-white">
+                                    <p style="font-size:50px">Get in touch</p>
+                                </div>
+                            </div>
+                            <form class="" method="post" id="formvalidation">
+                                <div class="row pt-4">
+                                    <div class="col-12 text-white">
+                                        <div class="row">
+                                            <div class="form-group col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                                                <input class="w-100" placeholder="Full Name" style="background-color:black;height:50px" required />
+                                            </div>
+                                            <div class="form-group col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                                                <input class="w-100" placeholder="Email" style="background-color:black;height:50px" required />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row pt-4">
+                                    <div class="col-12 text-white">
+                                        <div class="row">
+                                            <div class="form-group col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                                                <input class="w-100" placeholder="Contact Number" style="background-color:black;height:50px" />
+                                            </div>
+                                            <div class="form-group col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                                                <input class="w-100" placeholder="Subject" style="background-color:black;height:50px" required />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row pt-4">
+                                    <div class="col-12 text-white">
+                                        <div class="row">
+                                            <div class="form-group col-12">
+                                                <textarea class="w-100" placeholder="type a message" style="background-color:black" rows="10" required></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row pt-4">
+                                    <div class="col-12 text-white">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                @*<textarea class="w-100" placeholder="Full Name" style="background-color:black" rows="10"></textarea>*@
+                                                <button id="conatctUsbtn" type="submit" class="text-white btn mb-3 w-100 h-30 font-weight-bold mt-5 mb-5" style="background-color: black;border: 2px solid gray;font-size: 20px">Send</button>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    *************************************************
+
+    <div class="container-fluid mt-3">
+        <div class="col-12 bg-light">
+            <div class="row">
+                <div class="col-lg-6 col-md-12  col-sm-12 col-12">
+                    <form class="form-horizontal" method="post" id="formvalidation">
+                        <fieldset>
+                            <legend class="text-center header" style="color: #05007f">SEND US MESSAGE</legend>
+                            <h1>@ViewBag.Meaasage</h1>
+                            <div class="form-group">
+                                <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-3 col-offset-1 text-center">
+                                    <i class="fas fa-user fa-2x headingtextcolors">
+                                        <span class="text-danger" style="font-size:16px">*</span>
+                                    </i>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <input asp-for="@Model.Name" type="text" id="name" class="form-control" placeholder="Enter your Name" data-val-required="Please enter the name" required />
+                                    <span class="text-danger" asp-validation-for="Name"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-3 col-offset-1 text-center">
+                                    <i class="far fa-envelope fa-2x headingtextcolors">
+                                        <span class="text-danger" style="font-size:16px">*</span>
+                                    </i>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <input asp-for="@Model.Email" id="email" type="email" class="form-control" placeholder="enter your Email Address" data-val-required="Please enter the Email Address" required />
+                                    <span class="text-danger" asp-validation-for="Email"></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-3 col-offset-1 text-center">
+                                    <i class="fa fa-phone-square fa-2x  headingtextcolors">
+                                        <span class="text-light" style="font-size:16px">*</span>
+                                    </i>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <input asp-for="@Model.MobilePhone" id="phone" type="number" class="form-control"
+                                           placeholder="enter your Contact Number" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                
+                                <div class="col-12">
+                                    <input asp-for="@Model.Subject" id="subject" type="number" class="form-control"
+                                           placeholder="enter subject" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-3 col-offset-1 text-center">
+                                    <i class="fas fa-comment-dots fa-2x  headingtextcolors">
+                                        <span class="text-danger" style="font-size:16px">*</span>
+                                    </i>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <textarea asp-for="@Model.Message" id="message" type="text" class="form-control" placeholder="Enter Your Message"
+                                              data-val-length="Length must be between 5 to 250"
+                                              data-val-length-max="250" data-val-length-min="5" data-val-required="Please enter the your Message"
+                                              style="text-align:start end" rows="5" required></textarea>
+                                    <span class="text-danger" asp-validation-for="Message"></span>
+                                </div>
+                            </div>
+                            <div class="form-group mt-5">
+                                <div class="text-center">
+                                    <button type="submit" id="conatctUsbtn" class="btn w-25 h-25 btn-lg text-center" style="background-color: #f0aa0c;color: white;font-weight:bold">Submit</button>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+                <div class="col-lg-6 col-md-12  col-sm-12 col-12">
+                    <form class="form-horizontal" method="post">
+                        <fieldset>
+                            <legend class="text-center header" style="color: #05007f">Contact us</legend>
+                            <div class="form-group">
+                                <span class="col-lg-1 col-lg-offset-2 col-md-1 col-md-offset-2 col-sm-1 col-sm-offset-2 col-1 col-offset-2 text-center headingtextcolors">
+                                    <i class="fas fa-address-card fa-2x pt-3"></i>
+                                </span>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <h5>MZ-4 AL Qadir Heights Garden Town,Lahore, Pakistan</h5>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <span class="col-lg-1 col-lg-offset-2 col-md-1 col-md-offset-2 col-sm-1 col-sm-offset-2 col-1 col-offset-2 text-center headingtextcolors">
+                                    <i class="far fa-envelope fa-2x"></i>
+                                </span>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <h5>hr.triesolutions@gmail.com</h5>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <span class="col-lg-1 col-lg-offset-2 col-md-1 col-md-offset-2 col-sm-1 col-sm-offset-2 col-1 col-offset-2 text-center headingtextcolors">
+                                    <i class="fa fa-phone-square fa-2x"></i>
+                                </span>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <h5>+923001376161</h5>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+
+<script>
+
+    //const sendContactUs = () => {
+    $("#formvalidation").validate({
+        rules: {
+            "name": {
+                required: true
+            },
+            "subject": {
+                required: true
+            },
+            "email": {
+                required: true
+            },
+            "message": {
+                required: true
+            },
+        },
+        message: {
+            "name": {
+                required: "Enter Name"
+            },
+            "subject": {
+                required: "Enter Email"
+            },
+            "email": {
+                required: "Enter Email"
+            },
+            "message": {
+                required: "Enter Message"
+            },
+        },
+        submitHandler: function (form) {
+            debugger
+            const name = $("#name").val();
+            const email = $("#subject").val();
+            const email = $("#email").val();
+            const phone = $("#phone").val();
+            const message = $("#message").val();
+
+            const obj = {
+                Name: name,
+                Subject: subject,
+                Email: email,
+                MobilePhone: phone,
+                Message: message
+            };
+            $.ajax({
+                url: "/Home/AddContactUsData",
+                type: "POST",
+                dataType: "json",
+                data: obj,
+                success: (result) => {
+                    debugger
+                    window.location.reload();
+                }
+            });
+        }
+    });
+</script>
+

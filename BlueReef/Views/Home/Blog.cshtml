@@ -1,0 +1,165 @@
+﻿
+@{
+    ViewData["Title"] = "Blog";
+}
+
+<body class="body-content mt-5 pt-5">
+    <div class="container-fluid vlogsectionbackroundimg">
+        <h1 class=" text-center" style="font-size:55px;font-weight:bolder;margin-top:6%;color:gold">BLOG</h1>
+    </div>
+    <div class="container mt-5">
+        <div class="col-12">
+            <div class="row pb-4">
+                <div class="col-12">
+                    <input type="text" name="searchbox" id="searchbox" class="filterinput form-control h-100" placeholder="Search recipe titles and tags...">
+                </div>
+            </div>
+
+            <div class="row" id="example">
+                @*@foreach ($recipes as $recipe)*@
+                <div class="col-lg-4 pb-4" id="recipe-card">
+                    <div class="card h-100">
+                        <a href="/recipes/{{ $recipe->id}}">
+                            <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/Garden-Town-Gujranwala-1.jpg">
+                            @*<img class="card-img-top " src="{{ $recipe->imgurl}}" alt="{{ $recipe->name }}">*@
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title blogscardstittle text-center">
+                                <a href="/recipes/{{ $recipe->id}}">Garden Town Gujranwala</a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 pb-4" id="recipe-card">
+                    <div class="card h-100">
+                        <a href="/recipes/{{ $recipe->id}}">
+
+                            <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/Wapda-Town-Gujranwala-1.jpg">
+                            @*<img class="card-img-top " src="{{ $recipe->imgurl}}" alt="{{ $recipe->name }}">*@
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title blogscardstittle text-center">
+                                <a href="/recipes/{{ $recipe->id}}">Wapda Town Gujranwala</a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 pb-4" id="recipe-card">
+                    <div class="card h-100">
+                        <a href="/recipes/{{ $recipe->id}}">
+                            <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/Satellite-Town-Faisalabad-1.jpg">
+                            @*<img class="card-img-top " src="{{ $recipe->imgurl}}" alt="{{ $recipe->name }}">*@
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title blogscardstittle text-center">
+                                <a href="/recipes/{{ $recipe->id}}">Satellite Town Faisalabad</a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+
+                @*@endforeach*@
+
+            </div>
+            <div class="row">
+                @*@foreach ($recipes as $recipe)*@
+                <div class="col-lg-4 pb-4" id="recipe-card">
+                    <div class="card h-100">
+                        <a href="/recipes/{{ $recipe->id}}">
+                            <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/Model-Town-Khurrianwala-Faisalabad-1.jpg">
+                            @*<img class="card-img-top " src="{{ $recipe->imgurl}}" alt="{{ $recipe->name }}">*@
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title blogscardstittle text-center">
+                                <a href="/recipes/{{ $recipe->id}}">Model Town Khurrianwala Faisalabad</a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 pb-4" id="recipe-card">
+                    <div class="card h-100">
+                        <a href="/recipes/{{ $recipe->id}}">
+                            <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/Bahria-Hills-1.jpg">
+                            @*<img class="card-img-top " src="{{ $recipe->imgurl}}" alt="{{ $recipe->name }}">*@
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title blogscardstittle text-center">
+                                <a href="/recipes/{{ $recipe->id}}">Bahria Hills </a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 pb-4" id="recipe-card">
+                    <div class="card h-100">
+                        <a href="/recipes/{{ $recipe->id}}">
+                            <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/Avenue-3-Housing-Scheme-Islamabad-1.jpg">
+                            @*<img class="card-img-top " src="{{ $recipe->imgurl}}" alt="{{ $recipe->name }}">*@
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title blogscardstittle text-center">
+                                <a href="/recipes/{{ $recipe->id}}">Avenue-3 Housing Scheme Islamabad</a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    @*@foreach ($recipes as $recipe)*@
+                    <div class="col-lg-4 pb-4" id="recipe-card">
+                        <div class="card h-100">
+                            <a href="/recipes/{{ $recipe->id}}">
+                                <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/Paragon-City-Bahwalpur-1.jpg">
+                                @*<img class="card-img-top " src="{{ $recipe->imgurl}}" alt="{{ $recipe->name }}">*@
+                            </a>
+                            <div class="card-body">
+                                <h5 class="card-title blogscardstittle text-center">
+                                    <a href="/recipes/{{ $recipe->id}}">Paragon City Bahwalpur</a>
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 pb-4" id="recipe-card">
+                        <div class="card h-100">
+                            <a href="/recipes/{{ $recipe->id}}">
+                                <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/Satellite-Town-Quetta-1.jpg">
+                            </a>
+                            <div class="card-body">
+                                <h5 class="card-title blogscardstittle text-center">
+                                    <a href="/recipes/{{ $recipe->id}}">Satellite Town Quetta</a>
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 pb-4" id="recipe-card">
+                        <div class="card h-100">
+                            <a href="/recipes/{{ $recipe->id}}">
+                                <img class="card-img-top " src="https://sky119191.b-cdn.net/wp-content/uploads/2021/06/LDA-Avenue-1.jpg">
+                            </a>
+                            <div class="card-body">
+                                <h5 class="card-title blogscardstittle text-center">
+                                    <a href="/recipes/{{ $recipe->id}}">LDA Avenue</a>
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+
+                    @*@endforeach*@
+
+                </div>
+            </div>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $("#searchbox").on("keyup", function () {
+                    var value = $(this).val().toLowerCase();
+                    $("#recipe-card div").filter(function () {
+                        $(this).toggle($(this).find('h5').text().toLowerCase().indexOf(value) > -1)
+                    });
+                });
+            });
+
+
+
+        </script>
+</body>

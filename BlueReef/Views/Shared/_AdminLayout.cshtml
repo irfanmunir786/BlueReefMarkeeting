@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Blue Reef Real Estate</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="~/Images/blureef.jpg" style="border-radius: 75px" />
+    <link href="~/font-awesome/css/all.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+
+</head>
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light   m-0 navbar-fixed-top mr-0" style="background-color:#000000;font-size:16px">
+            <img src="~/images/blureef.jpg" class=" w-5 h-5" />
+            <button style="background-color:white" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav flex-grow-1 float-right">
+                    <li class="nav-item">
+                        <a class="nav-link ml-3 mt-1" style="color:white" asp-area="" asp-controller="Home" asp-action="Index">Signup</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ml-3 mt-1" style="color:white" asp-area="" asp-controller="Home" asp-action="Blog">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container-fluid  p-0 m-0">
+        <main role="main" class="pb-3">
+            @RenderBody()
+            <button onclick="topFunction()" id="mybtngohome" title="Go to top">
+                <i class="fas fa-chevron-up"></i>
+            </button>
+        </main>
+    </div>
+    <!-- Site footer -->
+    <footer class="site-footer text-white" style="background-color: #000000">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-4  col-lg-4 col-md-4 col-sm-12 col-12">
+                    <div class="row">
+                        <div class="col-12">
+                            <h2 class="font-weight-bold" style="color:#f0aa0c">HEAD OFFICE</h2>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="col-2">
+                            <i class="fas fa-map-marker-alt" style="font-size:35px;color:white"></i>
+                        </div>
+                        <div class="col-10">
+                            <p class="text-justify testfontsize">
+                                2nd Floor AA Plaza
+                                Jinnah Avenue ,Blue Area, Islamabad
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row pt-5 ">
+                        <div class="col-2">
+                            <i class="far fa-phone fa-rotate-90" style="font-size:35px;color:white"></i>
+                        </div>
+                        <div class="col-10">
+                            <p class="text-justify testfontsize">
+                                (051) 848-7777
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row pt-5 ">
+                        <div class="col-12">
+                            <h2 class="font-weight-bold" style="color:white">REGIONAL OFFICE</h2>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="col-2">
+                            <i class="fas fa-map-marker-alt" style="font-size:35px;color:white"></i>
+                        </div>
+                        <div class="col-10">
+                            <p class="text-justify testfontsize">
+                                Office No. 2, First Floor Block C,
+                                JB Tower, University Road
+                                Peshawar, Pakistan
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row pt-5 ">
+                        <div class="col-2">
+                            <i class="far fa-phone fa-rotate-90" style="font-size:35px;color:white"></i>
+                        </div>
+                        <div class="col-10">
+                            <p class="text-justify testfontsize">
+                                (091) 7257777
+                            </p>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="col-2">
+                            <i class="fas fa-map-marker-alt" style="font-size:35px;color:white"></i>
+                        </div>
+                        <div class="col-10">
+                            <p class="text-justify testfontsize">
+                                Office No. 3, 2nd Floor Mega Tower 63b,
+                                Main Boulevard Gulberg 2 Near McDonald’s Lahore, Punjab, Pakistan
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row pt-5 ">
+                        <div class="col-2">
+                            <i class="far fa-phone fa-rotate-90" style="font-size:35px;color:white"></i>
+                        </div>
+                        <div class="col-10">
+                            <p class="text-justify testfontsize">
+                                (042) 35777453
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row pt-5 ">
+                        <div class="col-2">
+                            <i class="far fa-envelope" style="font-size:35px;color:white"></i>
+                        </div>
+                        <div class="col-10">
+                            <p class="text-justify testfontsize">
+                                info@skymarketing.com.pk
+                            </p>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="col-xl-4  col-lg-4 col-md-4 col-sm-12 col-12">
+                    <h2 class="font-weight-bold" style="color:#f0aa0c">BOOKINGS</h2>
+                    <hr />
+                    <h4>Blue World City Booking</h4>
+                    <h4>Capital Smart City Booking</h4>
+                    <h4>Park View City Booking</h4>
+                    <h4>University Town Islamabad Booking</h4>
+                    <h4>ICHS Town Booking</h4>
+                    <div class="row">
+                        <h2>QUICK LINKS</h2>
+                    </div>
+                    <hr />
+                    <ul class="footer-links">
+                        <li> <a asp-area="" asp-controller="Home" asp-action="Aboutus">About Us</a></li>
+                        <li> <a asp-area="" asp-controller="Home" asp-action="ContactUS">Career</a></li>
+                        <li> <a asp-area="" asp-controller="Home" asp-action="CustomSoftwareDevelopment">Blog</a></li>
+                        <li> <a asp-area="" asp-controller="Home" asp-action="Products">News</a></li>
+                        <li> <a asp-area="" asp-controller="Home" asp-action="Aboutus">Contact Us</a></li>
+                        <li> <a asp-area="" asp-controller="Home" asp-action="ContactUS">Terms & Services</a></li>
+                    </ul>
+                </div>
+                <div class="col-xl-4  col-lg-4 col-md-4 col-sm-12 col-12">
+                    <h2 class="font-weight-bold LayoutServices" style="color:#f0aa0c">PROJECTS</h2>
+                    <hr />
+                    <h4>Park View City</h4>
+                    <h4>University Town</h4>
+                    <h4>Bahria Enclave</h4>
+                    <h4>Qurtaba City</h4>
+                    <h4>Faisal Hills Islamabad</h4>
+                </div>
+            </div>
+            <hr>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-6 col-xs-12">
+                    <p class="copyright-text testfontsize">
+                        &copy; 2019 - BLUE REFF PROPERTIES,All Rights Reserved.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+    
+</body>
+</html>

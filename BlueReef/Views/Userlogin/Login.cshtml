@@ -1,0 +1,25 @@
+﻿@model UserLoginVM
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Login</h1>
+
+<div class="container-fluid">
+    <form class="form-group" method="post" asp-controller="Userlogin" asp-action="Login">
+        <div class="form-control">
+            <label> UserName</label>
+            <input type="text" asp-for="loginId" placeholder="Enter Username"  required/>
+        </div>
+        <div class="form-control">
+            <label>Password</label>
+            <input type="password"  asp-for="Password" placeholder="Enter your password"  required/>
+        </div>
+        <div class="form-control">
+            <label>Remember Me</label>
+            <input type="checkbox" asp-for="RememberMe" />
+        </div>
+        <button type="submit" class=" btn btn-success">Submit</button>
+    </form>
+</div>

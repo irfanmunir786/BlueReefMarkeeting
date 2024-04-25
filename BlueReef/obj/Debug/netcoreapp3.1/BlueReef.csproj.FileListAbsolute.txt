@@ -1,0 +1,1453 @@
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.AssemblyInfoInputs.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.AssemblyInfo.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.CoreCompileInputs.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.MvcApplicationPartsAssemblyInfo.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.MvcApplicationPartsAssemblyInfo.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorAssemblyInfo.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorAssemblyInfo.cs
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\appsettings.json
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.exe
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.deps.json
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.runtimeconfig.json
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.runtimeconfig.dev.json
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.pdb
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.Views.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.Views.pdb
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\BlueReef.StaticWebAssets.Manifest.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\BlueReef.StaticWebAssets.xml
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlueReef.styles.css
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.TagHelpers.input.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.TagHelpers.output.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorCoreGenerate.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUS.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Offers.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reviews.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Videos.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Userlogin\Login.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorTargetAssemblyInfo.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorTargetAssemblyInfo.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.Views.pdb
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.CopyComplete
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.dll
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.pdb
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.genruntimeconfig.cache
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\MailKit.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\MimeKit.dll
+F:\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Email\AddContactUsData.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.AssemblyReference.cache
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\B17_MULTIGARDENS.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\BLUE_WORLD_CITY.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\ICHS_TOWN.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\LAHORE_SMART_CITY.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\PARK_VIEW_CITY.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\SMART_CITY_ISLAMABAD.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\UNIVERSITY_TOWN.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Blue_Town_Sapphire.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Blue_Hills.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Faisal_Hills.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Swiss_Garden_Faisal_Margalla.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Discovery_Gardens_Islamabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\EighteenIslamabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\properties.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\islamabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Mall_Islamabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Al_Noor_Orchard.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\lahore.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Orchard.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Nova_City_Islamabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Royal_Orchard.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\faisalabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\BAHRIA_ENCLAVE.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\GULBERG_GREENS.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\QURTABA_CITY.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\TAJ_RESIDENCIA.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Faisal_Margalla.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Park_View_Villas.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Town_Peshawar.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\PECHS_Islamabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Greens_Karachi.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Rudn_Enclave_Rawalpindi.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Overseas_Prime_Block_Capital_Smart.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Park_View_City_Lahore.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Agro_Farm_Houses_Islamabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Valley_Islamabad.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Peshawar.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Karachi.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Gujranwala.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Multan.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Capital_Smart_City_Islamabad_Overseas_Block.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Blue_World_City_Islamabad_Overseas_Block.cshtml.g.cs
+F:\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Park_View_City_Islamabad_Overseas_Block.cshtml.g.cs
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\appsettings.json
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.StaticWebAssets.xml
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.exe
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.deps.json
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.runtimeconfig.json
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.runtimeconfig.dev.json
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.pdb
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.Views.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.Views.pdb
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\data\BlueReef\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.AssemblyReference.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.AssemblyInfoInputs.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.AssemblyInfo.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.CoreCompileInputs.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.MvcApplicationPartsAssemblyInfo.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.MvcApplicationPartsAssemblyInfo.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorAssemblyInfo.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorAssemblyInfo.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\BlueReef.StaticWebAssets.Manifest.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\BlueReef.StaticWebAssets.Pack.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.BlueReef.Microsoft.AspNetCore.StaticWebAssets.props
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.BlueReef.props
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.BlueReef.props
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.BlueReef.props
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.TagHelpers.input.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.TagHelpers.output.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorCoreGenerate.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\faisalabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\islamabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\lahore.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\properties.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Gujranwala.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Karachi.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Multan.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Peshawar.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Valley_Islamabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Email\AddContactUsData.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUS.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Offers.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reviews.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Videos.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Blue_World_City_Islamabad_Overseas_Block.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Capital_Smart_City_Islamabad_Overseas_Block.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Park_View_City_Islamabad_Overseas_Block.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Al_Noor_Orchard.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\B17_MULTIGARDENS.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Agro_Farm_Houses_Islamabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\BAHRIA_ENCLAVE.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Greens_Karachi.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Orchard.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Town_Peshawar.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Blue_Hills.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Blue_Town_Sapphire.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\BLUE_WORLD_CITY.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Discovery_Gardens_Islamabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\EighteenIslamabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Faisal_Hills.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Faisal_Margalla.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\GULBERG_GREENS.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\ICHS_TOWN.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\LAHORE_SMART_CITY.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Mall_Islamabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Nova_City_Islamabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Overseas_Prime_Block_Capital_Smart.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\PARK_VIEW_CITY.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Park_View_City_Lahore.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Park_View_Villas.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\PECHS_Islamabad.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\QURTABA_CITY.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Royal_Orchard.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Rudn_Enclave_Rawalpindi.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\SMART_CITY_ISLAMABAD.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Swiss_Garden_Faisal_Margalla.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\TAJ_RESIDENCIA.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\UNIVERSITY_TOWN.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Userlogin\Login.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorTargetAssemblyInfo.cache
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorTargetAssemblyInfo.cs
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.Views.pdb
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.CopyComplete
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.dll
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.pdb
+D:\data\BlueReef\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.genruntimeconfig.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.StaticWebAssets.xml
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.exe
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.deps.json
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.runtimeconfig.json
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.runtimeconfig.dev.json
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.pdb
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.Views.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BlueReef.Views.pdb
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.AssemblyReference.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.AssemblyInfoInputs.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.AssemblyInfo.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.CoreCompileInputs.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.MvcApplicationPartsAssemblyInfo.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.MvcApplicationPartsAssemblyInfo.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorAssemblyInfo.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorAssemblyInfo.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\BlueReef.StaticWebAssets.Manifest.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\BlueReef.StaticWebAssets.Pack.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.BlueReef.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.BlueReef.props
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.BlueReef.props
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.BlueReef.props
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.TagHelpers.input.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.TagHelpers.output.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorCoreGenerate.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\faisalabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\islamabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\lahore.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\category\properties.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Gujranwala.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Karachi.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Multan.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Peshawar.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\DHA\DHA_Valley_Islamabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Email\AddContactUsData.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUS.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Offers.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reviews.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Videos.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Blue_World_City_Islamabad_Overseas_Block.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Capital_Smart_City_Islamabad_Overseas_Block.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Overseas_Block\Park_View_City_Islamabad_Overseas_Block.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Al_Noor_Orchard.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\B17_MULTIGARDENS.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Agro_Farm_Houses_Islamabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\BAHRIA_ENCLAVE.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Greens_Karachi.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Orchard.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Bahria_Town_Peshawar.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Blue_Hills.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Blue_Town_Sapphire.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\BLUE_WORLD_CITY.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Discovery_Gardens_Islamabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\EighteenIslamabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Faisal_Hills.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Faisal_Margalla.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\GULBERG_GREENS.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\ICHS_TOWN.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\LAHORE_SMART_CITY.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Mall_Islamabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Nova_City_Islamabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Overseas_Prime_Block_Capital_Smart.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\PARK_VIEW_CITY.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Park_View_City_Lahore.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Park_View_Villas.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\PECHS_Islamabad.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\QURTABA_CITY.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Royal_Orchard.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Rudn_Enclave_Rawalpindi.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\SMART_CITY_ISLAMABAD.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Swiss_Garden_Faisal_Margalla.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\TAJ_RESIDENCIA.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Projects\UNIVERSITY_TOWN.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\Userlogin\Login.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorTargetAssemblyInfo.cache
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.RazorTargetAssemblyInfo.cs
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.Views.pdb
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.csproj.CopyComplete
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.dll
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.pdb
+D:\Working Projects\BlueReefMarkeeting\BlueReef\obj\Debug\netcoreapp3.1\BlueReef.genruntimeconfig.cache
